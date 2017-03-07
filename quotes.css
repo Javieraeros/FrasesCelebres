@@ -22,10 +22,11 @@ body {
 }
 
 .quote-card {
+  border-radius: 5px;
   background: #fff;
   color: #222222;
   padding: 35px;
-  padding-left: 70px;
+  padding-left: 60px;
   box-sizing: border-box;
   box-shadow: 0 2px 4px rgba(34, 34, 34, 0.12);
   position: relative;
