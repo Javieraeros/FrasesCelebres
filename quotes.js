@@ -9,30 +9,31 @@ var quotes =
     },
     {
         quote: [
-            "Minions ipsum la bodaaa chasy poulet tikka masala uuuhhh underweaaar",
-            "Para tú pepete me want bananaaa! Uuuhhh."
+            "Tengo que ir a sport pump y después a zumba y hay media hora entre medio que no tengo na que hacé",
+            "Pues vete al gimnasio en vez de a por pan"
         ],
         author: "Beatriz Gonzalez"
     },
     {
         quote: [
-            "Minions ipsum tulaliloo bananaaaa poulet tikka masala tatata",
-            "Poopayee poulet tikka masala jiji chasy jiji gelatooo."
+            "Tú no tienes pacientes que atender?",
+            "Pero están a gusto porque son pacientes"
         ],
-        author: "Pepe García"
+        author: "Miriam Sanchez"
     },
     {
         quote: [
-            "Daa gelatooo jiji butt bee do bee do bee do.",
-            "Me want bananaaa! uuuhhh tulaliloo baboiii belloo!"
+            "Te has fijao en el detalle del chalequito atao a la cintura?",
+            " Si es un chaleco, como se lo ata si no tiene mangas?"
         ],
-        author: "Cristina Dominguez"
+        author: "Miriam Sanchez"
     },
     {
         quote: [
-            "Sevilla! Daa gelatooo jiji butt bee do bee do bee do.",
-            "Po kass. Tatata bala tu wiiiii me want bananaaa!"
+            "Estamos desarrollando una func....",
+            "Eso está ya",
+            "Pues si estalla no lo metas"
         ],
-        author: "Cristina Rodriguez"
+        author: "Miriam Sanchez"
     }
 ];
