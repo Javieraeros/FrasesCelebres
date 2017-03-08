@@ -3,7 +3,7 @@ var quoteBuilder = {
     expires: (24*60*60),
     index: Math.floor(Math.random() * quotes.length),
     get: function() {
-        if (typeof(Storage) !== "undefined") {
+        if (typeof(Storage) === "undefined") {
             this.check().build();
         }
         else {
