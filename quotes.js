@@ -44,4 +44,10 @@ var quotes =
         ],
         author: "Beatriz González."
     },
+    {
+        quote: [
+            "Me bootstrap mucho el solecito",
+        ],
+        author: "Miriam Sánchez."
+    },
 ];
