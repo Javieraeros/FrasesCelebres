@@ -16,11 +16,9 @@ var quoteBuilder = {
     get: function() {
         var query = this.getUrlVars();
         var id = query['id'];
-        console.log(query);
-        console.log(id);
+
         if (typeof id !== "undefined" && typeof quotes[id] !== 'undefined') {
             quote = quotes[id];
-            console.log(quote);
             this.insertDOM(quote);
         }
         else {
