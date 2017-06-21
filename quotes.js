@@ -58,4 +58,11 @@ var quotes =
         ],
         author: "Miriam Sánchez."
     },
+    {
+        quote: [
+            "Sabes quién es el product owner de ATAS?",
+            "Christian Grey"
+        ],
+        author: "Miriam Sánchez."
+    },
 ];
