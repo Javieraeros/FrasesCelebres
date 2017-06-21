@@ -50,4 +50,12 @@ var quotes =
         ],
         author: "Miriam Sánchez."
     },
+    {
+        quote: [
+            "Una amiga de pablo se ha caido y se ha roto la nariz bailando",
+            "bachata?",
+            "Ahora sí"
+        ],
+        author: "Miriam Sánchez."
+    },
 ];
