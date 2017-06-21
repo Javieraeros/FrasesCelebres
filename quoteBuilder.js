@@ -2,13 +2,33 @@ var quoteBuilder = {
     key: "propiaCita",
     expires: (24*60*60),
     index: Math.floor(Math.random() * quotes.length),
+    getUrlVars: function () {
+        var vars = [], hash;
+        var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+        for(var i = 0; i < hashes.length; i++)
+        {
+            hash = hashes[i].split('=');
+            vars.push(hash[0]);
+            vars[hash[0]] = hash[1];
+        }
+        return vars;
+    },
     get: function() {
-        if (typeof(Storage) === "undefined") {
-            this.check().build();
+        var query = this.getUrlVars();
+        var id = query['id'];
+
+        if (typeof id !== "undefined" && typeof quotes[id] !== 'undefined') {
+            quote = quotes[id];
+            this.insertDOM(quote);
         }
         else {
-            console.log("WTF? Your browser do not support localStorage. Everything will be random");
-            this.build();
+            if (typeof(Storage) === "undefined") {
+                this.check().build();
+            }
+            else {
+                console.log("WTF? Your browser do not support localStorage. Everything will be random");
+                this.build();
+            }
         }
     },
     store: function(index) {
