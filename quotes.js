@@ -63,6 +63,14 @@ var quotes =
             "Sabes quién es el product owner de ATAS?",
             "Christian Grey"
         ],
-        author: "Miriam Sánchez."
+        author: "Beatriz Gonzalez."
     },
+    
+    {
+        quote: [
+            "Pues Edu Serrano lleva el proyecto de...",
+            "Edu Serrano y Edu York"
+        ],
+        author: "Beatriz Gonzalez."
+    }
 ];
