@@ -72,5 +72,19 @@ var quotes =
             "Edu Serrano y Edu York"
         ],
         author: "Beatriz Gonzalez."
+    },
+    {
+        quote: [
+            "Me ha arañado el gato que parece lobezno",
+            "Zi lo veo"
+        ],
+        author: "Miriam Sanchez."
+    },
+    {
+        quote: [
+            "Cómo se ponen los alt en Árabe?",
+            "Pues altrevés"
+        ],
+        author: "Cristina Primera del Sánchez Pizjuan."
     }
 ];
