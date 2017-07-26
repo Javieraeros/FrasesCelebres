@@ -86,7 +86,7 @@ var quotes =
             "Pues altrevés"
         ],
         author: "Cristina Primera del Sánchez Pizjuan."
-    }
+    },
     {
         quote: [
             "¿Cómo se hace el grid?",
