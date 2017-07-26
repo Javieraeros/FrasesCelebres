@@ -92,6 +92,6 @@ var quotes =
             "¿Cómo se hace el grid?",
             "Pues un tono así entre el blanco y el negro"
         ],
-        author: "Joselito huevo frito."
+        author: "Joselito huevo frito"
     }
 ];
