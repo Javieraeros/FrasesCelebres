@@ -92,6 +92,13 @@ var quotes =
             "¿Cómo se hace el grid?",
             "Pues un tono así entre el blanco y el negro"
         ],
-        author: "Joselito huevo frito"
+        author: "Joselito huevo frito."
+    },
+    {
+        quote: [
+            "Deberíamos hacer cosas con los nombres de los proyectos",
+            "Que le vamos IAC si esto es lo OCAI"
+        ],
+        author: "Miriam Sanchez."
     }
 ];
