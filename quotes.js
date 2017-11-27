@@ -100,5 +100,20 @@ var quotes =
             "Que le vamos IAC si esto es lo OCAI"
         ],
         author: "Miriam Sanchez."
+    },
+    {
+        quote: [
+            "Hasta cuando son los cursos?",
+            "Hasta mañana",
+            "Quién se va?"
+        ],
+        author: "Estefanía Lopez."
+    },
+    
+    {
+        quote: [
+            "El Docker no se me levanta"
+        ],
+        author: "Jesús Moreno."
     }
 ];
