@@ -103,7 +103,7 @@ var quotes =
     },
     {
         quote: [
-            "Hasta cuando son los cursos?",
+            "¿Hasta cuando son los cursos?",
             "Hasta mañana",
             "Quién se va?"
         ],
