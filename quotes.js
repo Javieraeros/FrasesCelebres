@@ -13,5 +13,11 @@ var quotes =
             "Y encima el proyecto va mal de tiempo"
         ],
         author: "Pepón García"
+    },
+    {
+        quote: [
+            "Me acabo de dar cuenta de la habilidad que tengo para abrir una pestaña en incógnito",
+        ],
+        author: "Alex Twerdy - El ruso"
     }
 ];
