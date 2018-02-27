@@ -19,5 +19,12 @@ var quotes =
             "Me acabo de dar cuenta de la habilidad que tengo para abrir una pestaña en incógnito",
         ],
         author: "Alex Twerdy - El ruso"
+    },
+    {
+        quote: [
+            "Mon, eso no lo podemos cambiar porque viene en HTML",
+            "En que va a venir si no, ¿en tranchetes?"
+        ],
+        author: "Mon Aguilar-Cheese lover"
     }
 ];
