@@ -26,5 +26,11 @@ var quotes =
             "En que va a venir si no, ¿en tranchetes?"
         ],
         author: "Mon Aguilar-Cheese lover"
+    },
+    {
+        quote: [
+            "Aquí se viene a trabajar, no a hacer amigos"
+        ],
+        author: "Pepón García"
     }
 ];
