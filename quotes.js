@@ -32,5 +32,11 @@ var quotes =
             "Aquí se viene a trabajar, no a hacer amigos"
         ],
         author: "Pepón García"
+    },
+    {
+        quote: [
+            "React es react"
+        ],
+        author: "Alex Twerdy - El ruso"
     }
 ];
