@@ -38,5 +38,11 @@ var quotes =
             "React es react"
         ],
         author: "Alex Twerdy - El ruso"
+    },
+    {
+        quote: [
+            "El sensor óptico, es un sensor óptico"
+        ],
+        author: "Alex Twerdy - El ruso"
     }
 ];
