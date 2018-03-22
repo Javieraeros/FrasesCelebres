@@ -44,5 +44,12 @@ var quotes =
             "El sensor óptico, es un sensor óptico"
         ],
         author: "Alex Twerdy - El ruso"
+    },
+    {
+        quote: [
+            "El pan ya es chicle, da igual",
+            "Caliéntalo con el mechero"
+        ],
+        author: "Alex Twerdy - El ruso"
     }
 ];
