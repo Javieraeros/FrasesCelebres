@@ -51,5 +51,11 @@ var quotes =
             "Caliéntalo con el mechero"
         ],
         author: "Alex Twerdy - El ruso"
+    },
+    {
+        quote: [
+            "Si estás borracha te acuestas"
+        ],
+        author: "CTO"
     }
 ];
