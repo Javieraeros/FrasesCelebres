@@ -57,5 +57,11 @@ var quotes =
             "Si estás borracha te acuestas"
         ],
         author: "CTO"
+    },
+    {
+        quote: [
+            "Eso que es el PyCharm? Usa el PyStorm mejor"
+        ],
+        author: "Alex Twedy - Desarrollador de JetBrains"
     }
 ];
