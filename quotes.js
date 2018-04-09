@@ -62,6 +62,6 @@ var quotes =
         quote: [
             "Eso que es el PyCharm? Usa el PyStorm mejor"
         ],
-        author: "Alex Twedy - Desarrollador de JetBrains"
+        author: "Alex Twerdy - Desarrollador de JetBrains"
     }
 ];
