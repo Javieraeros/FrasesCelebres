@@ -72,6 +72,13 @@ var quotes =
     },
     {
         quote: [
+            "Pues yo me pongo muy para atrás en el coche, y eso que soy cortita",
+            "Y además eres bajita"
+        ],
+        author: "Javi Ruiz - Pepón Imitator"
+    },
+    {
+        quote: [
             "¿Has mirado si eso está caducado? (respecto a un bote de alcohol)",
             "Si no es para bebernoslo"
         ],
