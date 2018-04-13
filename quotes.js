@@ -63,5 +63,11 @@ var quotes =
             "Eso que es el PyCharm? Usa el PyStorm mejor"
         ],
         author: "Alex Twerdy - Desarrollador de JetBrains"
+    },
+    {
+        quote: [
+            "¿Cómo formateo el iPhone?"
+        ],
+        author: "Alex Twerdy - Desarrollador iOS"
     }
 ];
