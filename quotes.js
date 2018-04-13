@@ -69,5 +69,12 @@ var quotes =
             "¿Cómo formateo el iPhone?"
         ],
         author: "Alex Twerdy - Desarrollador iOS"
+    },
+    {
+        quote: [
+            "¿Has mirado si eso está caducado? (respecto a un bote de alcohol)",
+            "Si no es para bebernoslo"
+        ],
+        author: "Alex Twerdy - Experto nutricionista"
     }
 ];
