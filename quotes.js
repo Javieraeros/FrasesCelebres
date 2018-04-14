@@ -83,5 +83,12 @@ var quotes =
             "Si no es para bebernoslo"
         ],
         author: "Alex Twerdy - Experto nutricionista"
+    },
+    {
+        quote: [
+            "Llegué y quedé con una amiga para dejarle un tocado",
+            "Tocado voy yo, tocado y hundido"
+        ],
+        author: "León Álvarez - Oh Capitán mi capitán!"
     }
 ];
