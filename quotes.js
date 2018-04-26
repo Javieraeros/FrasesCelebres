@@ -90,5 +90,13 @@ var quotes =
             "Tocado voy yo, tocado y hundido"
         ],
         author: "León Álvarez - Oh Capitán mi capitán!"
+    },
+    {
+        quote: [
+            "Ya está...",
+            "¿Entonces ya sabes como hacerlo?",
+            "No, ya se lo que te quiero preguntar"
+        ],
+        author: "Javi Ruiz - Web developer 100%"
     }
 ];
