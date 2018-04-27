@@ -98,5 +98,11 @@ var quotes =
             "No, ya se lo que te quiero preguntar"
         ],
         author: "Javi Ruiz - Web developer 100%"
+    },
+    {
+        quote: [
+            "Vuestra memoria es RAM, la mía es Puleva"
+        ],
+        author: "Jesús Gómez - Proveedor de desayunos"
     }
 ];
