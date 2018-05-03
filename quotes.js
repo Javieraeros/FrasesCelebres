@@ -104,5 +104,12 @@ var quotes =
             "Vuestra memoria es RAM, la mía es Puleva"
         ],
         author: "Jesús Gómez - Proveedor de desayunos"
-    }
+    },
+    {
+        quote: [
+            "Yo aun no entiendo por qué se le aplica material design (guías de diseño de Android/Google) a iOS xD",
+            "Porque Google es DIOS que es casi lo mismo que IOS pero con D"
+        ],
+        author: "Mon Aguilar - Mon-jajajaja"
+    },
 ];
