@@ -112,4 +112,10 @@ var quotes =
         ],
         author: "Mon Aguilar - Mon-jajajaja"
     },
+    {
+        quote: [
+            "Mon yo necesito los diseños en Español y en Inglés"
+        ],
+        author: "Fausto Domínguez - QA Language Tester"
+    },
 ];
