@@ -118,4 +118,11 @@ var quotes =
         ],
         author: "Fausto Domínguez - QA Language Tester"
     },
+    {
+        quote: [
+            "Los de diseño te pasan el JSON y ya tu lo metes ahí",
+            "¿Pero Jason no era el de la máscara?"
+        ],
+        author: "JoseLui Pérez - Thriller Bohemian"
+    },
 ];
