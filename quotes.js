@@ -125,4 +125,11 @@ var quotes =
         ],
         author: "JoseLui Pérez - Thriller Bohemian"
     },
+    
+    {
+        quote: [
+            "Con un sueldo de 20000€, que no está mal..."
+        ],
+        author: "Pepón García - Bill Gates sucesor"
+    },
 ];
