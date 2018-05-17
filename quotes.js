@@ -132,4 +132,11 @@ var quotes =
         ],
         author: "Pepón García - Bill Gates sucesor"
     },
+    {
+        quote: [
+            "(Pepe va con una camisa de Pepe Jeans)"
+            "¿Eso que te lo ha bordado tu madre?"
+        ],
+        author: "Cristina Feit - Fashion Designer"
+    },
 ];
