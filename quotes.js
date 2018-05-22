@@ -139,4 +139,11 @@ var quotes =
         ],
         author: "Cristina Feit - Fashion Designer"
     },
+    {
+        quote: [
+            "Me falta importar unas cosas"
+            "A mi no me importa nada"
+        ],
+        author: "Pepón García- Mister Empatía 2018"
+    },
 ];
