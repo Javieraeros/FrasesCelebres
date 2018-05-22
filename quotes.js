@@ -146,4 +146,11 @@ var quotes =
         ],
         author: "Pepón García- Mister Empatía 2018"
     },
+    {
+        quote: [
+            "Compilar es cuándo pasas de código fuente a código máquina"
+            "¿El código fuente qué es que echa agua?"
+        ],
+        author: "JoseLui Pérez - 100% Java developer no fake"
+    },
 ];
