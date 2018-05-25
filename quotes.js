@@ -159,4 +159,11 @@ var quotes =
         ],
         author: "Fausto - Yu-gi-oh master"
     },
+    {
+        quote: [
+            "Odio a muerte que la gente vaya por lo bajini.",
+            "¿Qué prefieres, que vaya por lo altini,no?"
+        ],
+        author: "Alex Tverdy - Italian developer"
+    },
 ];
