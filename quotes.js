@@ -153,4 +153,10 @@ var quotes =
         ],
         author: "JoseLui Pérez - 100% Java developer no fake"
     },
+    {
+        quote: [
+            "¿Pepe, ustedes usáis exodia, no?"
+        ],
+        author: "Fausto - Yu-gi-oh master"
+    },
 ];
