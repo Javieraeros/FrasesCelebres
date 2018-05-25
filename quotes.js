@@ -134,21 +134,21 @@ var quotes =
     },
     {
         quote: [
-            "(Pepe va con una camisa de Pepe Jeans)"
+            "(Pepe va con una camisa de Pepe Jeans)",
             "¿Eso que te lo ha bordado tu madre?"
         ],
         author: "Cristina Feit - Fashion Designer"
     },
     {
         quote: [
-            "Me falta importar unas cosas"
+            "Me falta importar unas cosas",
             "A mi no me importa nada"
         ],
         author: "Pepón García- Mister Empatía 2018"
     },
     {
         quote: [
-            "Compilar es cuándo pasas de código fuente a código máquina"
+            "Compilar es cuándo pasas de código fuente a código máquina",
             "¿El código fuente qué es que echa agua?"
         ],
         author: "JoseLui Pérez - 100% Java developer no fake"
