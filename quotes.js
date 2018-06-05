@@ -166,4 +166,11 @@ var quotes =
         ],
         author: "Alex Tverdy - Italian developer"
     },
+    {
+        quote: [
+            "Estoy harto de los diálogos, he hecho 5 ya hoy",
+            "¿Cuáles, los de Shakespeare?"
+        ],
+        author: "JoseLui - Diseñar o no diseñar, he ahí la cuestión"
+    },
 ];
